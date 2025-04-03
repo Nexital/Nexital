@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Languages:
+### Languages:
 - ☕ Java (Minecraft mods and plugins)
 - 🐍 Python (AI things)
 - 🔵 C++ (Microcontrollers)
